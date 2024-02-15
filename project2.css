@@ -1,0 +1,316 @@
+
+.scroll{
+    overflow: hidden;
+}
+.s{
+    color: aliceblue;
+    padding-right: 20px;
+    padding-top: 10px;
+    
+   
+}
+.sec{
+   
+    min-height: 700px;
+    background-image: url(Woman-Computer-lg.jpg);
+    background-size: cover;
+    position: relative;
+    z-index: -2;
+    
+}
+.opacity{
+    position: absolute;
+    min-height: 100%;
+    background-color: rgba(0, 0, 0, 0.544);
+    width: 100%;
+    z-index: -1;
+
+
+}
+
+.sy{
+    color: green;
+}
+.inbox1{
+    background-color:white;
+     border-color: rgb(131, 131, 144);
+     min-height:220px;
+    margin: 50px 20px;
+    border-style: solid;
+    text-align: center;
+}
+.sec1{
+    background-color:white;
+}
+.inbox2{
+    background-color:white;
+    border-style:solid ;
+    border-color: rgb(131, 131, 144);
+    min-height: 220px;
+    margin:50px 20px;
+    
+    text-align: center;
+
+}
+.inbox3{
+    background-color: green;
+    min-height: 200px;
+    font-size: 100px;
+}
+.sec2{
+    background-color: green;
+}
+.sec3{
+    background-image: url(successful-mature-businessman-work-with-laptop-inside-office-man-business-suit-sitting-desk_321831-13911.avif);
+    background-size: cover;
+    background-position: top center;
+    
+   
+    
+    
+}
+.inbox4{
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+    min-height: 500px;
+    background-repeat: no-repeat;
+}
+.p4{
+    font-size: 20px;
+    text-align: center;
+    
+}
+.sec4{
+    background-color: gold;
+}
+.inbox5{
+    background-color:gold;
+    min-height: 100px;
+    text-align: center;
+    font-size: 50px;
+}
+.h2{
+    
+    text-align: left;
+    padding-top: 150px;
+    
+    
+}
+.sec5{
+    background-color: aliceblue;
+}
+.inbox6{
+    background-color: aliceblue;
+    min-height: 100px;
+}
+.sec6{
+    background-color: black;
+}
+.inbox7{
+    background-color: black;
+    min-height: 400px;
+    
+}
+a{
+    /* margin-right: 70px; */
+}
+.p1{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 100px;
+  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    
+}   
+.p2{
+    font-size: 40px;
+    color: aliceblue;
+    text-align: center;
+}
+.p3{
+    text-align: center;
+}
+.h1{
+    text-align: center;
+}
+.bt1{
+    background-color: green;
+    margin-left: 20px;
+}
+.bt2{
+    background-color:blue;
+}
+.bt3{
+    background-color: orangered;
+   
+}
+.bt4{
+    background-color: rgb(118, 111, 111);
+}
+.h3{
+    font-size: 2px;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 100px;
+
+   
+}
+.p4{
+    text-align: center;
+   
+}
+.head{
+  
+    margin-bottom: 40px;
+}
+.p5{
+    font-size: 16px;
+  
+   
+}
+.ab{
+    text-align: center;
+    font-size: 60px;
+}
+.inbox10{
+    background-color: rgb(145, 142, 142);
+    min-height: 200px;
+    margin-top: 5px;
+   
+    
+    
+   
+   
+}
+.inbox12{
+
+    min-height: 150px;
+}
+.inbox13{
+    
+    min-height: 150px;
+    
+   
+}
+.inbox14{
+    min-height: 150px;
+    margin-top: 40px;
+}
+.inbox15{
+    min-height: 150px;
+    margin-top: 30px;
+}
+.inbox16{
+    min-height: 150px;
+    margin-top: 60px;
+}
+.inbox17{
+    margin-top: 40px;
+}
+.inbox18{
+    margin-top: 30px;
+
+} 
+.inbox19{
+    margin-top: 40px;
+}
+.inbox20{
+    margin-top: 60px;
+}
+    
+
+.ph{
+    color: aqua;
+}
+.p6{
+    color: aliceblue;
+    margin-bottom: 20px;
+}
+.sp{
+    margin: 9px 10px;
+    font-size: 20px;
+    color:rgb(79, 76, 76);
+    margin-top: 80px;
+    display: inline-block;
+}
+.p7{
+    font-size: 10px;
+}
+.he{
+    font-size: 10px;
+    margin-top: 50px;
+}
+.he1{
+    font-size: 30px;
+}
+.span1{
+    background-color:white;
+    color: orangered;
+    display:inline-block;
+    padding: 5px 10px;
+    transform: translateY(-15px);
+    
+}
+.span2{
+    background-color: white;
+    color: blue;
+    display:inline-block;
+    padding: 5px 10px;
+    transform: translateY(-15px);
+}
+.span3{
+    background-color: white;
+    color: orangered;
+    display:inline-block;
+    padding: 5px 10px;
+    transform: translateY(-15px);
+}
+.span4{
+    background-color: white;
+    display:inline-block;
+    padding: 5px 10px;
+    transform: translateY(-15px);
+}
+.span5{
+    background-color:white;
+    display:inline-block;
+    padding: 5px 10px;
+    transform: translateY(-15px);
+}
+.span6{
+    background-color:white;
+    display:inline-block;
+    padding: 5px 10px;
+    transform: translateY(-15px);
+}
+.ic1{
+    font-size: 70px;
+    
+
+}
+.p8{
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+.p10{
+    margin-top: 70px;
+}
+.p9{
+    margin-top: 90px;
+}
+.p11{
+    margin-top: 50px;
+    
+}
+.p12{
+    text-align: left;
+}
+
+@media(max-width:468px){
+    .p1{
+        font-size: 50px;
+    }
+}
